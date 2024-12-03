@@ -1,16 +1,15 @@
-## Hi there 👋
+## My Portifolio:
 
-<!--
-**LeonanUCM/LeonanUCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Object Detection with Pure Computer Vision Methods](https://github.com/LeonanUCM/ObjectDetectionPureCV)
+<br>
+[Coloring CCTV Images using a custom CNN](https://www.kaggle.com/code/leonanvasconcelos/coloring-cctv-images-using-cnn)
+<br>
+[Image Feature Extractor](https://www.kaggle.com/code/leonanvasconcelos/image-feature-extractor)
+<br>
+[Ranking Image Similarity](https://www.kaggle.com/leonanvasconcelos/ranking-image-similarity)
+<br>
+[Image Tiling with Parallelization](https://www.kaggle.com/leonanvasconcelos/image-tiling-with-parallelization)
+<br>
+[Web Photogrammetry Image Viewer](https://leonanucm.github.io/Photogrametry-Web-Viewer)
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
