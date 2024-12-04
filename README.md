@@ -1,6 +1,6 @@
 ## My Portifolio:
 
-[Object Detection with Pure Computer Vision Methods](https://github.com/LeonanUCM/ObjectDetectionPureCV)
+[Object Detection with Pure Computer Vision Methods](https://www.kaggle.com/code/leonanvasconcelos/object-detection-with-pure-computer-vision)
 <br>
 [Coloring CCTV Images using a custom CNN](https://www.kaggle.com/code/leonanvasconcelos/coloring-cctv-images-using-cnn)
 <br>
