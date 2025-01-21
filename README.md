@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 Hi! I'm Leonan Vasconcelos, a passionate professional specializing in computer vision and deep learning. Throughout my career, I have developed innovative solutions that combine advanced image processing techniques with neural networks to tackle complex challenges in various sectors.
 
@@ -8,7 +8,7 @@ Below, I present some examples of my work that I can share publicly, as they are
 
 ---
 
-### Portfolio Table
+## Portfolio
 
 | Project | Description | Screenshot |
 |---|---|---|
