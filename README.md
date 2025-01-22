@@ -10,7 +10,7 @@ Below, I present some examples of my work that I can share publicly, as they are
 
 ## Portfolio
 
-| Project | Description |
+| Project | Preview |
 |---|---|
 | **[Object Detection with Pure Computer Vision Methods](https://www.kaggle.com/code/leonanvasconcelos/object-detection-with-pure-computer-vision)** <br>Implementation of computer vision techniques for object detection without using neural networks. | [![Object Detection](https://github.com/LeonanUCM/LeonanUCM/blob/main/images/Object%20Detection%20with%20Pure%20Computer%20Vision%20Methods.png)](https://www.kaggle.com/code/leonanvasconcelos/object-detection-with-pure-computer-vision) |
 | **[Coloring CCTV Images using a Custom CNN](https://www.kaggle.com/code/leonanvasconcelos/coloring-cctv-images-using-cnn)** <br>Utilizing a custom convolutional neural network (CNN) to colorize black-and-white CCTV images. | [![Coloring CCTV Images](https://github.com/LeonanUCM/LeonanUCM/blob/main/images/Coloring%20CCTV%20Images%20using%20a%20Custom%20CNN.png)](https://www.kaggle.com/code/leonanvasconcelos/coloring-cctv-images-using-cnn) |
