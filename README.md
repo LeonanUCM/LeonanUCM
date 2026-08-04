@@ -1,6 +1,8 @@
 ## Introduction
 
-Hi! I'm Leonan Vasconcelos, a passionate professional specializing in computer vision and deep learning. Throughout my career, I have developed innovative solutions that combine advanced image processing techniques with neural networks to tackle complex challenges in various sectors.
+Hi! I'm Leonan Vasconcelos, a senior technology, data and applied AI architect with 20+ years of international experience across Europe and the Americas. I build software, data platforms and production-grade AI systems, connecting software engineering, statistics, cloud, LLMs, computer vision, geospatial workflows, field operations and business decisions.
+
+My work spans high-volume telecom platforms, data-analysis products, offline AI systems with real-time performance, autonomous mapping tools, RAG and LLM workflows, and agentic engineering systems. I focus on turning complex technical constraints into reliable products that can be used, verified and operated in real conditions.
 
 You can learn more about my experience and background on my [LinkedIn profile](https://www.linkedin.com/in/leonan/).
 
